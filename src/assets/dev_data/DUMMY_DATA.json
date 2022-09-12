@@ -1,0 +1,381 @@
+{
+  "head": {
+    "headInfo": {
+      "orgao": {
+        "ministerio": "Ministério da Economia",
+        "secretaria": "Secretaria Especial da Receita Federal do Brasil"
+      },
+      "dataReferencia": { "mes": "Fevereiro", "ano": "2022" }
+    },
+    "dadosImpressao": {
+      "data": "03/03/2022",
+      "horario": "15:15",
+      "matricula": "2032548",
+      "codHomologacao": "3278"
+    },
+    "pessoalInfo": {
+      "nome": "Joel Alves Pereira",
+      "cargo": "AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL",
+      "unidadeExercicio": "DRF-BRASILIA",
+      "setorExercicio": "Eqrat2/DRF/BSB",
+      "localizacaoFisica": {
+        "unidade": "DRF-CUIABA",
+        "municipio": "CUIABA/MT",
+        "endereco": "Edifício: Edifício Sede",
+        "complemento": { "pav": "01", "sala": "Secat" }
+      },
+      "cpf": "94512868372",
+      "siape": "2032548",
+      "siapeUnico": "02035487",
+      "siapeCad": "01815556",
+      "telefone": "65 9311-7183"
+    },
+    "jornadaTrabalho": {
+      "jornada": "Jornada de trabalho: 08:00 às 12:00 e das 13:30 às 17:30"
+    }
+  },
+
+  "body": [
+    {
+      "dia": 1,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 2,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 3,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 4,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 5,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 6,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 7,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 8,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 9,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 10,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 11,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 12,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 13,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 14,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 15,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 16,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 17,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 18,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 19,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 20,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 21,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 22,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 23,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 24,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 25,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 26,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 27,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 28,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 29,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 30,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    },
+    {
+      "dia": 31,
+      "entradaManha": "00:00",
+      "saidaManha": "00:00",
+      "entradaTarde": "00:00",
+      "saidaTarde": "00:00",
+      "assinaturaOcorrencia": "Assinado Digitalmente",
+      "horas": "0",
+      "compensacao": "0",
+      "abono": "0"
+    }
+  ]
+}
