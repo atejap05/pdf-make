@@ -40,9 +40,8 @@ const geraPDF = folhaObj => {
     {
       style: "tableExample",
       margin: [margin, margin, margin, 0],
-      layout: layout,
       table: {
-        widths: [convertToPdfMakerUnit(4.79), convertToPdfMakerUnit(2.54)], // total width = 586
+        widths: [convertToPdfMakerUnit(4.79) - 5, convertToPdfMakerUnit(2.54)], // total width = 586
         body: [
           [
             {
@@ -71,6 +70,7 @@ const geraPDF = folhaObj => {
               border: [true, false, true, true],
               text:
                 `${head.headInfo.dataReferencia.mes}` +
+                " / " +
                 `${head.headInfo.dataReferencia.ano}`,
             },
           ],
@@ -183,6 +183,7 @@ const geraPDF = folhaObj => {
           ],
         ],
       },
+      layout: layout,
     },
   ];
 
@@ -249,7 +250,7 @@ const geraPDF = folhaObj => {
   const details = [
     {
       table: {
-        widths: [20, 40, 40, 40, 40, 177, 35, 35, 35],
+        widths: [20, 40, 40, 40, 40, 170, 35, 35, 35],
         body: [
           [
             {
@@ -314,27 +315,49 @@ const geraPDF = folhaObj => {
   ];
 
   // footer content
-  const rodape = (currentPage, pageCount) => {
-    return [
-      {
-        text: `${currentPage} of ${pageCount}`,
-        fontSize: 9,
-        alignment: "right",
-        margin: [0, 0, 0, 0],
+  const rodape = [
+    {
+      style: "tableExemple",
+      margin: [0, 20, 0, 0],
+      table: {
+        widths: ["35%", "65%"],
+        body: [
+          [
+            {
+              alignment: "center",
+              margin: [25, 30, 25, 0],
+              fontSize: 9,
+              stack: ["Carimbo/Assinatura", "Chefia imediata"],
+            },
+            {
+              fontSize: 9,
+              stack: [
+                {
+                  ol: [
+                    "O Registro não pode ser rasurado.",
+                    "Após a aprovação da Frequência, não serão aceitos pedidos de reconsideração de faltas, atraso, ausências ou saída antecipadas.",
+                    "No caso de justificativas, observar a lista de afastamento.",
+                    "O registro de frequência deverá ser encaminhado até o 2 dia útil do mês subsequente.",
+                  ],
+                },
+              ],
+            },
+          ],
+        ],
       },
-    ];
-  };
+    },
+  ];
 
   const docDefinitions = {
     defaultStyle: { font: "LiberationSerif", color: "#012030" },
     pageSize: "A4",
     // left, top, right, bottom
-    pageMargins: [margin, convertToPdfMakerUnit(3.08), margin, margin],
+    pageMargins: [margin, convertToPdfMakerUnit(3.08), margin, 0],
 
     header: [reportTitle],
-    content: [details],
+    content: [details, rodape],
     // footer: rodape,
-    footer: [],
+    // footer: [rodape],
   };
 
   pdfMake.createPdf(docDefinitions).open();

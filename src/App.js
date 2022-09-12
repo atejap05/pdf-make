@@ -5,7 +5,7 @@ import DUMMY_DATA from "./assets/dev_data/DUMMY_DATA.json";
 function App() {
   return (
     <div className="App">
-      <button onClick={() => geraPDF(DUMMY_DATA)}>Download</button>
+      <button onClick={() => geraPDF(DUMMY_DATA)}>Open</button>
     </div>
   );
 }
